@@ -1,0 +1,29 @@
+.sidebar{
+    width: 256px;
+    background-color: rgb(5, 5, 91);
+    height: 100vh;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.sidebar-links{
+    display: flex;
+    flex-direction: column;
+     
+    list-style: none;
+}
+
+.sidebar-links li{
+    display: flex;
+    margin-top: 20px;
+    background-color: aqua;
+    
+    
+}
+p{
+    font-size: 20px;
+}
+.sidebar-footer{
+    display: flex;
+}

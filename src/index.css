@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.link{
+  text-decoration: none;
+}
+
+tr{
+  height: 4rem !important;
+  vertical-align: middle;
+  
+}
+thead{
+  background-color: rgb(30 58 138 / var(--tw-bg-opacity));
+  color: white;
+  
+}
